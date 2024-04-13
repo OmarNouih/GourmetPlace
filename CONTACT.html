@@ -1,0 +1,147 @@
+<html lang="en">
+<head>
+    
+    <link rel="stylesheet" type="text/css" href="Sst.css">
+    <title>Ochkha Resturant</title>
+    <style>
+        body {
+    font-family: Arial, Helvetica, sans-serif !important;
+    margin: 0!important;
+  }
+  
+  html {
+    box-sizing: border-box;
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+  
+.column {
+    float: left;
+    width: 33.3%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 8px;
+  }
+  
+  .about-section {
+    padding: 50px;
+    text-align: center;
+    background-color: #474e5d;
+    color: white;
+  }
+  
+  .container {
+    padding: 10px 16px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+  }
+  
+  .container::after, .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  .title {
+    color: grey;
+  }
+  
+  .ttx {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: F0D2D4;
+    background-color: #BB103D;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  .button:hover {
+    background-color: #555;
+  }
+  
+    </style>
+</head>
+
+<body>
+    <section class="header">
+    <div class="logo">
+        <img src="img/logo.png" alt="">
+    </div>
+    <div class="links-container">
+        <ul>
+            <a href="index.html">Home</a>
+            <a href="Reservation.php">Reservations</a>
+            <a href="Menu.html">Menu</a>
+            <a href="Events.html">Events</a>
+            <a href="contact.html">About us</a>
+            <a href="SOON!.html"><img src="img/x.png" width="18px" style="padding-top: 8px;"></a>
+        </ul>
+    </div>
+    </section>
+    <div class="eve-titles" >
+      <h2>OUCHKHA RESTURANT</h2>
+      <h2 class="orange" style="font-size:xx-large;" >OUR TEAM :</h2>
+  </div>
+
+      <div class="row">
+        <div class="column">
+          <div class="card">
+            <img src="img/OMAR.jpg" alt="Jane" style="width:100%">
+            <div class="container">
+              <h3>Nouih Omar</h3>
+              <p class="title">ETUDIANT</p>
+              <p>TEST TEST TEST TEST </p>
+              <p>omarnouih@gmail.com</p>
+              <p><button class="ttx">Contact</button></p>
+            </div>
+          </div>
+        </div>
+      
+        <div class="column">
+          <div class="card">
+            <img src="img/shymaa.jpg" alt="Mike" style="width:100%">
+            <div class="container">
+              <h3>Zaghloul Chaimaa</h3>
+              <p class="title">ETUDIANTE</p>
+              <p>TEST TEST TEST TEST</p>
+              <p>chaymaazagh@gmail.com</p>
+              <p><button class="ttx">Contact</button></p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="column">
+          <div class="card">
+            <img src="img/hassan.jpg" alt="John" style="width:100%">
+            <div class="container">
+              <h3>El Hassan El Semlali</h3>
+              <p class="title">ETUDIANT</p>
+              <p>TEST TEST TEST TEST </p>
+              <p>ElHassanElSemlali@mgail.com</p>
+              <p><button class="ttx">Contact</button></p>
+            </div>
+          </div>
+        </div>
+      </div>
+  
+      </div>
+      <center>
+        <div class="pied">
+            <p>© Système de gestion de restaurants
+                - Nouih Omar
+                - El Hassan Semlali
+                - Zaghloul Chaimaa</p>
+        </div>
+    </center>
+</body>
