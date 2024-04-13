@@ -1,6 +1,9 @@
 # GourmetPlace - Restaurant Website
 
-Welcome to the official repository for GourmetPlace, a dynamic and interactive restaurant website designed using PHP, HTML, and CSS. This site includes several features to enhance the dining experience of our guests by providing detailed information online.
+Welcome to the official repository for GourmetPlace, a dynamic and interactive restaurant website designed using PHP, HTML, and CSS. This site includes several features to enhance the dining experience of our guests by providing detailed information online. This project is kept simple as it marks my first endeavor into web development, focusing on fundamental features and design.
+
+![Restaurant Homepage]([https://github.com/OmarNouih/GourmetPlace/blob/main/img/1.png](https://github.com/OmarNouih/GourmetPlace/blob/main/img/1.png)
+*Image of the homepage of GourmetPlace*
 
 ## Features
 
