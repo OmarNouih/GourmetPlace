@@ -76,10 +76,4 @@ You will need:
 
 ## Authors
 
-- **NOUIH Omar** - *Initial work* - [YourUsername](https://github.com/OmarNouih)
-
-## Acknowledgments
-
-- Thanks to everyone who has contributed to this project.
-- Special thanks to patrons and regular customers for their valuable feedback.
-```
+- **NOUIH Omar** - *Initial work* - [OmarNouih](https://github.com/OmarNouih)
