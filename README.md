@@ -1,6 +1,3 @@
-To include the web server configuration instructions in your README.md file for the `GourmetPlace` project, you can place it under the **Installation** section. This provides users with step-by-step guidance on setting up the environment necessary to run your website locally. Here's how you could organize it in the README:
-
-```markdown
 # GourmetPlace - Restaurant Website
 
 Welcome to the official repository for GourmetPlace, a dynamic and interactive restaurant website designed using PHP, HTML, and CSS. This site includes several features to enhance the dining experience of our guests by providing detailed information online.
