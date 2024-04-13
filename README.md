@@ -71,22 +71,12 @@ You will need:
 - **CSS** - Styling of the web components.
 - **PHP** - Backend logic and server-side integration.
 
-## Contributing
-
-Interested in contributing? Great! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for how to proceed.
-
 ## Authors
 
-- **Your Name** - *Initial work* - [YourUsername](https://github.com/YourUsername)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+- **NOUIH Omar** - *Initial work* - [YourUsername](https://github.com/OmarNouih)
 
 ## Acknowledgments
 
 - Thanks to everyone who has contributed to this project.
 - Special thanks to patrons and regular customers for their valuable feedback.
 ```
-
-This configuration ensures that anyone cloning the repository can follow clear and concise steps to get the website running locally, including setting up the appropriate server configurations for Apache and Nginx.
